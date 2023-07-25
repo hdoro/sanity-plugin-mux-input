@@ -111,14 +111,14 @@
     "react-is": "^18.2.0",
     "rimraf": "^5.0.0",
     "sanity": "^3.6.0",
-    "styled-components": "^5.3.9",
+    "styled-components": "^6.0.5",
     "type-fest": "^3.6.1",
     "typescript": "^5.0.2"
   },
   "peerDependencies": {
     "react": "^18",
     "sanity": "^3",
-    "styled-components": "^5.2"
+    "styled-components": "^5.2 || ^6.0.0"
   },
   "engines": {
     "node": ">=14"
